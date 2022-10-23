@@ -1,0 +1,12 @@
+[etherscan]
+api_token = ""
+api_url = "https://api.etherscan.io/api"
+
+[account]
+address = ""
+
+[coingecko]
+api_url = "https://api.coingecko.com/api/v3"
+
+[records]
+path = "./staking_records.csv"
